@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ron Crojer | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Ron Crojer</h1>
+    <p>ECE Student | Embedded Systems | IoT | Electronics</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am an Electronics and Communication Engineering student at
+        College of Engineering Kidangoor. I am passionate about embedded
+        systems, IoT, hardware electronics, and programming.
+    </p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>B.Tech Electronics and Communication Engineering</p>
+    <p>College of Engineering Kidangoor</p>
+    <p>1st Year Completed</p>
+</section>
+
+<section>
+    <h2>Internship</h2>
+    <h3>IIIT Kottayam - IoT Assistant Intern</h3>
+    <p>
+        Working on IoT systems, sensor integration,
+        embedded development, and practical electronics.
+    </p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>C Programming</li>
+        <li>Arduino</li>
+        <li>Embedded Systems</li>
+        <li>Proteus</li>
+        <li>Tinkercad</li>
+        <li>AWS</li>
+        <li>Hardware Electronics</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Learning Journal</h2>
+
+    <div class="journal">
+        <h3>Day 1</h3>
+        <p>Introduction to IoT and internship activities.</p>
+    </div>
+
+    <div class="journal">
+        <h3>Day 2</h3>
+        <p>Sensor interfacing and Arduino programming.</p>
+    </div>
+
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <p>Add your projects here as you complete them.</p>
+</section>
+
+<footer>
+    <p>© Ron Crojer</p>
+</footer>
+
+</body>
+</html>
